@@ -51,8 +51,5 @@ public class C04_ManageMethods_ImplicitlyWait {
 
 
         driver.close();
-        //hamit
-driver.get("https://google.com");
-
     }
 }

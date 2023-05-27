@@ -25,7 +25,7 @@ implicitlyWait(Duration.ofSeconds(20))           // Sayfadaki webElementleri gö
          30 saniye bekler ve alt satıra geçer.
 
 Thread.sleep(3000);   //Java kodlarını bekletmek için Thread.sleep kullanabiliriz
-yorum
+
 
 
 

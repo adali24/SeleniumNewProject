@@ -39,7 +39,7 @@ public class C02_Navigate_Methods {
 
         //Sayfayı kapatalım
         driver.close();
-        //hamit
+
 
     }
 }
